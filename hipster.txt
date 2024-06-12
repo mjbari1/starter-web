@@ -1,0 +1,1 @@
+Diese File wurde erstellt um mit add, commit, push and pull git Befehle vertrauchen zu machen. 
