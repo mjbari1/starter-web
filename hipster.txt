@@ -1,1 +1,2 @@
-Diese File wurde erstellt um mit add, commit, push and pull git Befehle vertrauchen zu machen. 
+Diese File wurde erstellt um mit add, commit, push and pull git Befehle vertrauchen zu machen.
+Jetzt wollen wir die Änderungen in dieser File vergleichen. 
